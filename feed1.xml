@@ -1,0 +1,930 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+    <channel>
+        <!-- 基本信息 -->
+        <title>徹夜bot</title>
+        <link>https://www.google.com</link>
+        <description>純粋な░Ｇｏｏｄ░ｏｌｄ░ｄａｙｓ</description>
+        <language>zh-cn</language>
+
+        <!-- iTunes 专用标签 -->
+        <itunes:author>徹夜bot</itunes:author>
+        <itunes:summary>純粋な░Ｇｏｏｄ░ｏｌｄ░ｄａｙｓ</itunes:summary>
+
+        <itunes:image href="http://i0.hdslb.com/bfs/face/40196b5ff3718b83134be71d6e674144e6f18516.jpg" />
+
+        <item>
+            <!-- 基本信息 -->
+            <title>music to heal you from brain rot</title>
+            <description>https://www.youtube.com/watch?v=vcGeWUiWrT4</description>
+
+            <pubDate>Wed, 05 Nov 2025 18:21:04 GMT</pubDate>
+            <link>https://www.google.com</link>
+            <enclosure
+                url="http://192.168.32.1:3000/stream?engine=bilibili_basic&amp;vid=BV1vX1tBSEkk&amp;bilibili_bvid=1&amp;quality=48k&amp;type=audio" />
+            <!-- iTunes 专用 -->
+            <itunes:duration>01:03:56</itunes:duration>
+            <itunes:author>徹夜bot</itunes:author>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:summary>https://www.youtube.com/watch?v=vcGeWUiWrT4</itunes:summary>
+            <itunes:image href="http://192.168.32.1:3000/bilibili_basicfeed/static/user/4554/avatar" />
+            <!-- 唯一标识符 -->
+            <guid isPermaLink="false">BV1vX1tBSEkk</guid>
+        </item>
+        <item>
+            <!-- 基本信息 -->
+            <title>Frank Ocean but it&apos;s lofi to sleepchill to</title>
+            <description>https://www.youtube.com/watch?v=9hA2ctBgxBo</description>
+
+            <pubDate>Fri, 31 Oct 2025 20:43:11 GMT</pubDate>
+            <link>https://www.google.com</link>
+            <enclosure
+                url="http://192.168.32.1:3000/stream?engine=bilibili_basic&amp;vid=BV1p213BSEbt&amp;bilibili_bvid=1&amp;quality=48k&amp;type=audio" />
+            <!-- iTunes 专用 -->
+            <itunes:duration>00:15:22</itunes:duration>
+            <itunes:author>徹夜bot</itunes:author>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:summary>https://www.youtube.com/watch?v=9hA2ctBgxBo</itunes:summary>
+            <itunes:image href="http://192.168.32.1:3000/bilibili_basicfeed/static/user/4554/avatar" />
+            <!-- 唯一标识符 -->
+            <guid isPermaLink="false">BV1p213BSEbt</guid>
+        </item>
+        <item>
+            <!-- 基本信息 -->
+            <title>everyone is asleep, except you (playlist)</title>
+            <description>https://www.youtube.com/watch?v=sOToqEZgCOM&amp;list=RDsOToqEZgCOM&amp;start_radio=1
+            </description>
+
+            <pubDate>Wed, 29 Oct 2025 16:15:03 GMT</pubDate>
+            <link>https://www.google.com</link>
+            <enclosure
+                url="http://192.168.32.1:3000/stream?engine=bilibili_basic&amp;vid=BV16KyWBkEgd&amp;bilibili_bvid=1&amp;quality=48k&amp;type=audio" />
+            <!-- iTunes 专用 -->
+            <itunes:duration>00:50:45</itunes:duration>
+            <itunes:author>徹夜bot</itunes:author>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:summary>https://www.youtube.com/watch?v=sOToqEZgCOM&amp;list=RDsOToqEZgCOM&amp;start_radio=1
+            </itunes:summary>
+            <itunes:image href="http://192.168.32.1:3000/bilibili_basicfeed/static/user/4554/avatar" />
+            <!-- 唯一标识符 -->
+            <guid isPermaLink="false">BV16KyWBkEgd</guid>
+        </item>
+        <item>
+            <!-- 基本信息 -->
+            <title>she was only a dream</title>
+            <description>https://www.youtube.com/watch?v=yiFYnA7b_cc</description>
+
+            <pubDate>Tue, 28 Oct 2025 17:00:27 GMT</pubDate>
+            <link>https://www.google.com</link>
+            <enclosure
+                url="http://192.168.32.1:3000/stream?engine=bilibili_basic&amp;vid=BV1koyrBhEwk&amp;bilibili_bvid=1&amp;quality=48k&amp;type=audio" />
+            <!-- iTunes 专用 -->
+            <itunes:duration>00:46:43</itunes:duration>
+            <itunes:author>徹夜bot</itunes:author>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:summary>https://www.youtube.com/watch?v=yiFYnA7b_cc</itunes:summary>
+            <itunes:image href="http://192.168.32.1:3000/bilibili_basicfeed/static/user/4554/avatar" />
+            <!-- 唯一标识符 -->
+            <guid isPermaLink="false">BV1koyrBhEwk</guid>
+        </item>
+        <item>
+            <!-- 基本信息 -->
+            <title>M E M O R I E S ※ NIGHT DRIVE CHILL PHONK MIX (LXST CXNTURY TYPE) ※ BEST JDM MUS</title>
+            <description>https://www.youtube.com/watch?v=2_EqfF_5aac&amp;list=RD2_EqfF_5aac&amp;start_radio=1
+            </description>
+
+            <pubDate>Mon, 20 Oct 2025 16:16:00 GMT</pubDate>
+            <link>https://www.google.com</link>
+            <enclosure
+                url="http://192.168.32.1:3000/stream?engine=bilibili_basic&amp;vid=BV1nYW6zxEBK&amp;bilibili_bvid=1&amp;quality=48k&amp;type=audio" />
+            <!-- iTunes 专用 -->
+            <itunes:duration>01:28:38</itunes:duration>
+            <itunes:author>徹夜bot</itunes:author>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:summary>https://www.youtube.com/watch?v=2_EqfF_5aac&amp;list=RD2_EqfF_5aac&amp;start_radio=1
+            </itunes:summary>
+            <itunes:image href="http://192.168.32.1:3000/bilibili_basicfeed/static/user/4554/avatar" />
+            <!-- 唯一标识符 -->
+            <guid isPermaLink="false">BV1nYW6zxEBK</guid>
+        </item>
+        <item>
+            <!-- 基本信息 -->
+            <title>the world we should have gotten frutiger aero playlist</title>
+            <description>https://www.youtube.com/watch?v=MY_B_4zMusU</description>
+
+            <pubDate>Sun, 19 Oct 2025 16:15:00 GMT</pubDate>
+            <link>https://www.google.com</link>
+            <enclosure
+                url="http://192.168.32.1:3000/stream?engine=bilibili_basic&amp;vid=BV12nW6zeEb1&amp;bilibili_bvid=1&amp;quality=48k&amp;type=audio" />
+            <!-- iTunes 专用 -->
+            <itunes:duration>00:28:48</itunes:duration>
+            <itunes:author>徹夜bot</itunes:author>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:summary>https://www.youtube.com/watch?v=MY_B_4zMusU</itunes:summary>
+            <itunes:image href="http://192.168.32.1:3000/bilibili_basicfeed/static/user/4554/avatar" />
+            <!-- 唯一标识符 -->
+            <guid isPermaLink="false">BV12nW6zeEb1</guid>
+        </item>
+        <item>
+            <!-- 基本信息 -->
+            <title>these 30 minutes of slowed Playboi Carti type beats will make you ascend to</title>
+            <description>https://www.youtube.com/watch?v=ac69v2KAdqE&amp;list=RDac69v2KAdqE&amp;start_radio=1
+                 heaven</description>
+
+            <pubDate>Sat, 18 Oct 2025 17:12:00 GMT</pubDate>
+            <link>https://www.google.com</link>
+            <enclosure
+                url="http://192.168.32.1:3000/stream?engine=bilibili_basic&amp;vid=BV14nW6zeEgL&amp;bilibili_bvid=1&amp;quality=48k&amp;type=audio" />
+            <!-- iTunes 专用 -->
+            <itunes:duration>00:30:54</itunes:duration>
+            <itunes:author>徹夜bot</itunes:author>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:summary>https://www.youtube.com/watch?v=ac69v2KAdqE&amp;list=RDac69v2KAdqE&amp;start_radio=1
+                 heaven</itunes:summary>
+            <itunes:image href="http://192.168.32.1:3000/bilibili_basicfeed/static/user/4554/avatar" />
+            <!-- 唯一标识符 -->
+            <guid isPermaLink="false">BV14nW6zeEgL</guid>
+        </item>
+        <item>
+            <!-- 基本信息 -->
+            <title>Joji playlist [rnbvibeblue]</title>
+            <description>https://www.youtube.com/watch?v=iK_I2jW5gOQ&amp;list=RDiK_I2jW5gOQ&amp;start_radio=1
+            </description>
+
+            <pubDate>Fri, 17 Oct 2025 16:05:00 GMT</pubDate>
+            <link>https://www.google.com</link>
+            <enclosure
+                url="http://192.168.32.1:3000/stream?engine=bilibili_basic&amp;vid=BV13XW6zkEcK&amp;bilibili_bvid=1&amp;quality=48k&amp;type=audio" />
+            <!-- iTunes 专用 -->
+            <itunes:duration>00:28:41</itunes:duration>
+            <itunes:author>徹夜bot</itunes:author>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:summary>https://www.youtube.com/watch?v=iK_I2jW5gOQ&amp;list=RDiK_I2jW5gOQ&amp;start_radio=1
+            </itunes:summary>
+            <itunes:image href="http://192.168.32.1:3000/bilibili_basicfeed/static/user/4554/avatar" />
+            <!-- 唯一标识符 -->
+            <guid isPermaLink="false">BV13XW6zkEcK</guid>
+        </item>
+        <item>
+            <!-- 基本信息 -->
+            <title>Joji - PIXELATED KISSES (Visualizer)</title>
+            <description>https://www.youtube.com/watch?v=SblNBrgLdvo</description>
+
+            <pubDate>Tue, 14 Oct 2025 16:12:25 GMT</pubDate>
+            <link>https://www.google.com</link>
+            <enclosure
+                url="http://192.168.32.1:3000/stream?engine=bilibili_basic&amp;vid=BV1sb4bzgEEr&amp;bilibili_bvid=1&amp;quality=48k&amp;type=audio" />
+            <!-- iTunes 专用 -->
+            <itunes:duration>00:01:49</itunes:duration>
+            <itunes:author>徹夜bot</itunes:author>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:summary>https://www.youtube.com/watch?v=SblNBrgLdvo</itunes:summary>
+            <itunes:image href="http://192.168.32.1:3000/bilibili_basicfeed/static/user/4554/avatar" />
+            <!-- 唯一标识符 -->
+            <guid isPermaLink="false">BV1sb4bzgEEr</guid>
+        </item>
+        <item>
+            <!-- 基本信息 -->
+            <title>heavenly breakcore mix</title>
+            <description>https://www.youtube.com/watch?v=7ftBFB6MF1I&amp;list=RD7ftBFB6MF1I&amp;start_radio=1
+            </description>
+
+            <pubDate>Sat, 11 Oct 2025 16:56:21 GMT</pubDate>
+            <link>https://www.google.com</link>
+            <enclosure
+                url="http://192.168.32.1:3000/stream?engine=bilibili_basic&amp;vid=BV1R44NzWEPi&amp;bilibili_bvid=1&amp;quality=48k&amp;type=audio" />
+            <!-- iTunes 专用 -->
+            <itunes:duration>00:26:44</itunes:duration>
+            <itunes:author>徹夜bot</itunes:author>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:summary>https://www.youtube.com/watch?v=7ftBFB6MF1I&amp;list=RD7ftBFB6MF1I&amp;start_radio=1
+            </itunes:summary>
+            <itunes:image href="http://192.168.32.1:3000/bilibili_basicfeed/static/user/4554/avatar" />
+            <!-- 唯一标识符 -->
+            <guid isPermaLink="false">BV1R44NzWEPi</guid>
+        </item>
+        <item>
+            <!-- 基本信息 -->
+            <title>📼 RETRO REWIND Nostalgic Retro Video Store Ambiance Sentimental 80s Synthwave</title>
+            <description>https://www.youtube.com/watch?v=_EIvDuGftFM</description>
+
+            <pubDate>Tue, 07 Oct 2025 16:40:14 GMT</pubDate>
+            <link>https://www.google.com</link>
+            <enclosure
+                url="http://192.168.32.1:3000/stream?engine=bilibili_basic&amp;vid=BV1zwxozBEH5&amp;bilibili_bvid=1&amp;quality=48k&amp;type=audio" />
+            <!-- iTunes 专用 -->
+            <itunes:duration>01:30:01</itunes:duration>
+            <itunes:author>徹夜bot</itunes:author>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:summary>https://www.youtube.com/watch?v=_EIvDuGftFM</itunes:summary>
+            <itunes:image href="http://192.168.32.1:3000/bilibili_basicfeed/static/user/4554/avatar" />
+            <!-- 唯一标识符 -->
+            <guid isPermaLink="false">BV1zwxozBEH5</guid>
+        </item>
+        <item>
+            <!-- 基本信息 -->
+            <title>ＭＩＤＮＩＧＨＴ　ＩＮ　１９９１</title>
+            <description>https://www.youtube.com/watch?v=1eszAriZ7nI</description>
+
+            <pubDate>Sun, 05 Oct 2025 17:51:00 GMT</pubDate>
+            <link>https://www.google.com</link>
+            <enclosure
+                url="http://192.168.32.1:3000/stream?engine=bilibili_basic&amp;vid=BV1M7xazHE2r&amp;bilibili_bvid=1&amp;quality=48k&amp;type=audio" />
+            <!-- iTunes 专用 -->
+            <itunes:duration>05:15:11</itunes:duration>
+            <itunes:author>徹夜bot</itunes:author>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:summary>https://www.youtube.com/watch?v=1eszAriZ7nI</itunes:summary>
+            <itunes:image href="http://192.168.32.1:3000/bilibili_basicfeed/static/user/4554/avatar" />
+            <!-- 唯一标识符 -->
+            <guid isPermaLink="false">BV1M7xazHE2r</guid>
+        </item>
+        <item>
+            <!-- 基本信息 -->
+            <title>pov you&apos;re tired. a playlist to listen to while crying in silence ( sad vibes)</title>
+            <description>https://www.youtube.com/watch?v=jkd_EW-0IE0</description>
+
+            <pubDate>Wed, 01 Oct 2025 15:59:20 GMT</pubDate>
+            <link>https://www.google.com</link>
+            <enclosure
+                url="http://192.168.32.1:3000/stream?engine=bilibili_basic&amp;vid=BV1psHxzmE3o&amp;bilibili_bvid=1&amp;quality=48k&amp;type=audio" />
+            <!-- iTunes 专用 -->
+            <itunes:duration>00:35:27</itunes:duration>
+            <itunes:author>徹夜bot</itunes:author>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:summary>https://www.youtube.com/watch?v=jkd_EW-0IE0</itunes:summary>
+            <itunes:image href="http://192.168.32.1:3000/bilibili_basicfeed/static/user/4554/avatar" />
+            <!-- 唯一标识符 -->
+            <guid isPermaLink="false">BV1psHxzmE3o</guid>
+        </item>
+        <item>
+            <!-- 基本信息 -->
+            <title>Late 90s Atmospheric Drum and Bass Selection pt. 7</title>
+            <description>https://www.youtube.com/watch?v=Sein50n6c2k</description>
+
+            <pubDate>Tue, 30 Sep 2025 17:30:43 GMT</pubDate>
+            <link>https://www.google.com</link>
+            <enclosure
+                url="http://192.168.32.1:3000/stream?engine=bilibili_basic&amp;vid=BV1dCHjzCEyA&amp;bilibili_bvid=1&amp;quality=48k&amp;type=audio" />
+            <!-- iTunes 专用 -->
+            <itunes:duration>01:02:10</itunes:duration>
+            <itunes:author>徹夜bot</itunes:author>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:summary>https://www.youtube.com/watch?v=Sein50n6c2k</itunes:summary>
+            <itunes:image href="http://192.168.32.1:3000/bilibili_basicfeed/static/user/4554/avatar" />
+            <!-- 唯一标识符 -->
+            <guid isPermaLink="false">BV1dCHjzCEyA</guid>
+        </item>
+        <item>
+            <!-- 基本信息 -->
+            <title>M E M O R I E S ※ NIGHT DRIVE CHILL PHONK MIX (LXST CXNTURY TYPE) ※ BEST JDM MUS</title>
+            <description>https://www.youtube.com/watch?v=2_EqfF_5aac</description>
+
+            <pubDate>Sun, 28 Sep 2025 17:34:12 GMT</pubDate>
+            <link>https://www.google.com</link>
+            <enclosure
+                url="http://192.168.32.1:3000/stream?engine=bilibili_basic&amp;vid=BV1A9nozKE5X&amp;bilibili_bvid=1&amp;quality=48k&amp;type=audio" />
+            <!-- iTunes 专用 -->
+            <itunes:duration>01:28:38</itunes:duration>
+            <itunes:author>徹夜bot</itunes:author>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:summary>https://www.youtube.com/watch?v=2_EqfF_5aac</itunes:summary>
+            <itunes:image href="http://192.168.32.1:3000/bilibili_basicfeed/static/user/4554/avatar" />
+            <!-- 唯一标识符 -->
+            <guid isPermaLink="false">BV1A9nozKE5X</guid>
+        </item>
+        <item>
+            <!-- 基本信息 -->
+            <title>ＶＩＢＩＮ¹⁰</title>
+            <description>https://www.youtube.com/watch?v=O5FeX28XJmY</description>
+
+            <pubDate>Thu, 25 Sep 2025 16:29:36 GMT</pubDate>
+            <link>https://www.google.com</link>
+            <enclosure
+                url="http://192.168.32.1:3000/stream?engine=bilibili_basic&amp;vid=BV1uVnhzqETe&amp;bilibili_bvid=1&amp;quality=48k&amp;type=audio" />
+            <!-- iTunes 专用 -->
+            <itunes:duration>01:07:05</itunes:duration>
+            <itunes:author>徹夜bot</itunes:author>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:summary>https://www.youtube.com/watch?v=O5FeX28XJmY</itunes:summary>
+            <itunes:image href="http://192.168.32.1:3000/bilibili_basicfeed/static/user/4554/avatar" />
+            <!-- 唯一标识符 -->
+            <guid isPermaLink="false">BV1uVnhzqETe</guid>
+        </item>
+        <item>
+            <!-- 基本信息 -->
+            <title>peace</title>
+            <description>https://www.youtube.com/watch?v=T1dV08Wervc</description>
+
+            <pubDate>Mon, 22 Sep 2025 16:55:00 GMT</pubDate>
+            <link>https://www.google.com</link>
+            <enclosure
+                url="http://192.168.32.1:3000/stream?engine=bilibili_basic&amp;vid=BV1n6nAzLEif&amp;bilibili_bvid=1&amp;quality=48k&amp;type=audio" />
+            <!-- iTunes 专用 -->
+            <itunes:duration>00:46:57</itunes:duration>
+            <itunes:author>徹夜bot</itunes:author>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:summary>https://www.youtube.com/watch?v=T1dV08Wervc</itunes:summary>
+            <itunes:image href="http://192.168.32.1:3000/bilibili_basicfeed/static/user/4554/avatar" />
+            <!-- 唯一标识符 -->
+            <guid isPermaLink="false">BV1n6nAzLEif</guid>
+        </item>
+        <item>
+            <!-- 基本信息 -->
+            <title>snowpoint lounge - 思い出の森</title>
+            <description>https://www.youtube.com/watch?v=hs-Bs1Ojjus</description>
+
+            <pubDate>Sun, 21 Sep 2025 16:56:00 GMT</pubDate>
+            <link>https://www.google.com</link>
+            <enclosure
+                url="http://192.168.32.1:3000/stream?engine=bilibili_basic&amp;vid=BV1tDJRziESW&amp;bilibili_bvid=1&amp;quality=48k&amp;type=audio" />
+            <!-- iTunes 专用 -->
+            <itunes:duration>00:41:40</itunes:duration>
+            <itunes:author>徹夜bot</itunes:author>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:summary>https://www.youtube.com/watch?v=hs-Bs1Ojjus</itunes:summary>
+            <itunes:image href="http://192.168.32.1:3000/bilibili_basicfeed/static/user/4554/avatar" />
+            <!-- 唯一标识符 -->
+            <guid isPermaLink="false">BV1tDJRziESW</guid>
+        </item>
+        <item>
+            <!-- 基本信息 -->
+            <title>𝟮𝗮𝗺.</title>
+            <description>https://www.youtube.com/watch?v=xDih5SwFs_c</description>
+
+            <pubDate>Sat, 20 Sep 2025 16:39:38 GMT</pubDate>
+            <link>https://www.google.com</link>
+            <enclosure
+                url="http://192.168.32.1:3000/stream?engine=bilibili_basic&amp;vid=BV1XMpozXEet&amp;bilibili_bvid=1&amp;quality=48k&amp;type=audio" />
+            <!-- iTunes 专用 -->
+            <itunes:duration>01:00:27</itunes:duration>
+            <itunes:author>徹夜bot</itunes:author>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:summary>https://www.youtube.com/watch?v=xDih5SwFs_c</itunes:summary>
+            <itunes:image href="http://192.168.32.1:3000/bilibili_basicfeed/static/user/4554/avatar" />
+            <!-- 唯一标识符 -->
+            <guid isPermaLink="false">BV1XMpozXEet</guid>
+        </item>
+        <item>
+            <!-- 基本信息 -->
+            <title>Mac OS Liquid DnB Jungle Mix</title>
+            <description>https://www.youtube.com/watch?v=mgtPfRrO4vw</description>
+
+            <pubDate>Fri, 19 Sep 2025 16:44:35 GMT</pubDate>
+            <link>https://www.google.com</link>
+            <enclosure
+                url="http://192.168.32.1:3000/stream?engine=bilibili_basic&amp;vid=BV1F8WLzHEjV&amp;bilibili_bvid=1&amp;quality=48k&amp;type=audio" />
+            <!-- iTunes 专用 -->
+            <itunes:duration>05:55:26</itunes:duration>
+            <itunes:author>徹夜bot</itunes:author>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:summary>https://www.youtube.com/watch?v=mgtPfRrO4vw</itunes:summary>
+            <itunes:image href="http://192.168.32.1:3000/bilibili_basicfeed/static/user/4554/avatar" />
+            <!-- 唯一标识符 -->
+            <guid isPermaLink="false">BV1F8WLzHEjV</guid>
+        </item>
+        <item>
+            <!-- 基本信息 -->
+            <title>TRAPPIN IN ＰＡＲＡＤＩＳＥ 144</title>
+            <description>https://www.youtube.com/watch?v=kszGhdTMRP0</description>
+
+            <pubDate>Thu, 18 Sep 2025 18:43:55 GMT</pubDate>
+            <link>https://www.google.com</link>
+            <enclosure
+                url="http://192.168.32.1:3000/stream?engine=bilibili_basic&amp;vid=BV1PNWTziEwg&amp;bilibili_bvid=1&amp;quality=48k&amp;type=audio" />
+            <!-- iTunes 专用 -->
+            <itunes:duration>01:09:57</itunes:duration>
+            <itunes:author>徹夜bot</itunes:author>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:summary>https://www.youtube.com/watch?v=kszGhdTMRP0</itunes:summary>
+            <itunes:image href="http://192.168.32.1:3000/bilibili_basicfeed/static/user/4554/avatar" />
+            <!-- 唯一标识符 -->
+            <guid isPermaLink="false">BV1PNWTziEwg</guid>
+        </item>
+        <item>
+            <!-- 基本信息 -->
+            <title>Kanye - Father Stretch My Hands pt.1 but it&apos;s a Beautiful Morning</title>
+            <description>https://www.youtube.com/watch?v=rxJtOm68TMk&amp;list=RDrxJtOm68TMk&amp;start_radio=1
+            </description>
+
+            <pubDate>Mon, 15 Sep 2025 17:04:58 GMT</pubDate>
+            <link>https://www.google.com</link>
+            <enclosure
+                url="http://192.168.32.1:3000/stream?engine=bilibili_basic&amp;vid=BV1iVp6zLEFR&amp;bilibili_bvid=1&amp;quality=48k&amp;type=audio" />
+            <!-- iTunes 专用 -->
+            <itunes:duration>00:03:24</itunes:duration>
+            <itunes:author>徹夜bot</itunes:author>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:summary>https://www.youtube.com/watch?v=rxJtOm68TMk&amp;list=RDrxJtOm68TMk&amp;start_radio=1
+            </itunes:summary>
+            <itunes:image href="http://192.168.32.1:3000/bilibili_basicfeed/static/user/4554/avatar" />
+            <!-- 唯一标识符 -->
+            <guid isPermaLink="false">BV1iVp6zLEFR</guid>
+        </item>
+        <item>
+            <!-- 基本信息 -->
+            <title>Iced Oolong Tea.</title>
+            <description>https://www.youtube.com/watch?v=TBLZSXwfjbE</description>
+
+            <pubDate>Sun, 07 Sep 2025 17:17:24 GMT</pubDate>
+            <link>https://www.google.com</link>
+            <enclosure
+                url="http://192.168.32.1:3000/stream?engine=bilibili_basic&amp;vid=BV1DPYjz8ExS&amp;bilibili_bvid=1&amp;quality=48k&amp;type=audio" />
+            <!-- iTunes 专用 -->
+            <itunes:duration>03:12:59</itunes:duration>
+            <itunes:author>徹夜bot</itunes:author>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:summary>https://www.youtube.com/watch?v=TBLZSXwfjbE</itunes:summary>
+            <itunes:image href="http://192.168.32.1:3000/bilibili_basicfeed/static/user/4554/avatar" />
+            <!-- 唯一标识符 -->
+            <guid isPermaLink="false">BV1DPYjz8ExS</guid>
+        </item>
+        <item>
+            <!-- 基本信息 -->
+            <title>Tokyo Night Drive From Roppongi to Toyosu 8K 60fps HDR Soft Lofi Beats</title>
+            <description>https://www.youtube.com/watch?v=d4rhr2nHuuE&amp;t=1201s</description>
+
+            <pubDate>Thu, 04 Sep 2025 18:25:29 GMT</pubDate>
+            <link>https://www.google.com</link>
+            <enclosure
+                url="http://192.168.32.1:3000/stream?engine=bilibili_basic&amp;vid=BV1jbaQzTEBc&amp;bilibili_bvid=1&amp;quality=48k&amp;type=audio" />
+            <!-- iTunes 专用 -->
+            <itunes:duration>01:30:56</itunes:duration>
+            <itunes:author>徹夜bot</itunes:author>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:summary>https://www.youtube.com/watch?v=d4rhr2nHuuE&amp;t=1201s</itunes:summary>
+            <itunes:image href="http://192.168.32.1:3000/bilibili_basicfeed/static/user/4554/avatar" />
+            <!-- 唯一标识符 -->
+            <guid isPermaLink="false">BV1jbaQzTEBc</guid>
+        </item>
+        <item>
+            <!-- 基本信息 -->
+            <title>remember when lofi hip-hop sounded like this.</title>
+            <description>https://www.youtube.com/watch?v=CfQwTrfiE18</description>
+
+            <pubDate>Tue, 02 Sep 2025 18:19:58 GMT</pubDate>
+            <link>https://www.google.com</link>
+            <enclosure
+                url="http://192.168.32.1:3000/stream?engine=bilibili_basic&amp;vid=BV1LNaNzTE1Y&amp;bilibili_bvid=1&amp;quality=48k&amp;type=audio" />
+            <!-- iTunes 专用 -->
+            <itunes:duration>01:00:01</itunes:duration>
+            <itunes:author>徹夜bot</itunes:author>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:summary>https://www.youtube.com/watch?v=CfQwTrfiE18</itunes:summary>
+            <itunes:image href="http://192.168.32.1:3000/bilibili_basicfeed/static/user/4554/avatar" />
+            <!-- 唯一标识符 -->
+            <guid isPermaLink="false">BV1LNaNzTE1Y</guid>
+        </item>
+        <item>
+            <!-- 基本信息 -->
+            <title>iced americano.</title>
+            <description>https://www.youtube.com/watch?v=CxPuW063UrQ</description>
+
+            <pubDate>Fri, 29 Aug 2025 16:32:17 GMT</pubDate>
+            <link>https://www.google.com</link>
+            <enclosure
+                url="http://192.168.32.1:3000/stream?engine=bilibili_basic&amp;vid=BV1SChozMEYC&amp;bilibili_bvid=1&amp;quality=48k&amp;type=audio" />
+            <!-- iTunes 专用 -->
+            <itunes:duration>01:00:20</itunes:duration>
+            <itunes:author>徹夜bot</itunes:author>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:summary>https://www.youtube.com/watch?v=CxPuW063UrQ</itunes:summary>
+            <itunes:image href="http://192.168.32.1:3000/bilibili_basicfeed/static/user/4554/avatar" />
+            <!-- 唯一标识符 -->
+            <guid isPermaLink="false">BV1SChozMEYC</guid>
+        </item>
+        <item>
+            <!-- 基本信息 -->
+            <title>ＣＨＩＬＬＩＮ ¹⁰</title>
+            <description>https://www.youtube.com/watch?v=k-XP_jnvGeQ</description>
+
+            <pubDate>Mon, 25 Aug 2025 17:15:03 GMT</pubDate>
+            <link>https://www.google.com</link>
+            <enclosure
+                url="http://192.168.32.1:3000/stream?engine=bilibili_basic&amp;vid=BV19wefzRE2p&amp;bilibili_bvid=1&amp;quality=48k&amp;type=audio" />
+            <!-- iTunes 专用 -->
+            <itunes:duration>01:03:09</itunes:duration>
+            <itunes:author>徹夜bot</itunes:author>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:summary>https://www.youtube.com/watch?v=k-XP_jnvGeQ</itunes:summary>
+            <itunes:image href="http://192.168.32.1:3000/bilibili_basicfeed/static/user/4554/avatar" />
+            <!-- 唯一标识符 -->
+            <guid isPermaLink="false">BV19wefzRE2p</guid>
+        </item>
+        <item>
+            <!-- 基本信息 -->
+            <title>I Wonder - Kanye West (Extended Intro with Orchestrated Outro)</title>
+            <description>https://www.youtube.com/watch?v=ZIF5r4Eb9FY</description>
+
+            <pubDate>Mon, 25 Aug 2025 16:57:15 GMT</pubDate>
+            <link>https://www.google.com</link>
+            <enclosure
+                url="http://192.168.32.1:3000/stream?engine=bilibili_basic&amp;vid=BV1AyeZzMEb8&amp;bilibili_bvid=1&amp;quality=48k&amp;type=audio" />
+            <!-- iTunes 专用 -->
+            <itunes:duration>00:04:21</itunes:duration>
+            <itunes:author>徹夜bot</itunes:author>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:summary>https://www.youtube.com/watch?v=ZIF5r4Eb9FY</itunes:summary>
+            <itunes:image href="http://192.168.32.1:3000/bilibili_basicfeed/static/user/4554/avatar" />
+            <!-- 唯一标识符 -->
+            <guid isPermaLink="false">BV1AyeZzMEb8</guid>
+        </item>
+        <item>
+            <!-- 基本信息 -->
+            <title>just business, darling.</title>
+            <description>https://www.youtube.com/watch?v=ZHV_Hc2Wbrw&amp;list=RDZHV_Hc2Wbrw&amp;start_radio=1
+            </description>
+
+            <pubDate>Fri, 22 Aug 2025 17:00:07 GMT</pubDate>
+            <link>https://www.google.com</link>
+            <enclosure
+                url="http://192.168.32.1:3000/stream?engine=bilibili_basic&amp;vid=BV1GLehzVE4K&amp;bilibili_bvid=1&amp;quality=48k&amp;type=audio" />
+            <!-- iTunes 专用 -->
+            <itunes:duration>01:00:01</itunes:duration>
+            <itunes:author>徹夜bot</itunes:author>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:summary>https://www.youtube.com/watch?v=ZHV_Hc2Wbrw&amp;list=RDZHV_Hc2Wbrw&amp;start_radio=1
+            </itunes:summary>
+            <itunes:image href="http://192.168.32.1:3000/bilibili_basicfeed/static/user/4554/avatar" />
+            <!-- 唯一标识符 -->
+            <guid isPermaLink="false">BV1GLehzVE4K</guid>
+        </item>
+        <item>
+            <!-- 基本信息 -->
+            <title>you need some time off. (minecraft music, crackling fire &amp; wind)</title>
+            <description>https://www.youtube.com/watch?v=46kj2djx-cE</description>
+
+            <pubDate>Mon, 18 Aug 2025 16:33:42 GMT</pubDate>
+            <link>https://www.google.com</link>
+            <enclosure
+                url="http://192.168.32.1:3000/stream?engine=bilibili_basic&amp;vid=BV1pAYbzSE5W&amp;bilibili_bvid=1&amp;quality=48k&amp;type=audio" />
+            <!-- iTunes 专用 -->
+            <itunes:duration>01:14:50</itunes:duration>
+            <itunes:author>徹夜bot</itunes:author>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:summary>https://www.youtube.com/watch?v=46kj2djx-cE</itunes:summary>
+            <itunes:image href="http://192.168.32.1:3000/bilibili_basicfeed/static/user/4554/avatar" />
+            <!-- 唯一标识符 -->
+            <guid isPermaLink="false">BV1pAYbzSE5W</guid>
+        </item>
+        <item>
+            <!-- 基本信息 -->
+            <title>𝟣𝟫𝟫𝟤 𝐋𝐚𝐭𝐞 𝐍𝐢𝐠𝐡𝐭 𝐖𝐨𝐫𝐤 𝙉𝙤𝙨𝙩𝙖𝙡𝙜𝙞𝙘 𝙊𝙛𝙛𝙞𝙘𝙚𝙬𝙖𝙫𝙚 ~</title>
+            <description>https://www.youtube.com/watch?v=FkFE2H2loPg</description>
+
+            <pubDate>Tue, 12 Aug 2025 16:57:50 GMT</pubDate>
+            <link>https://www.google.com</link>
+            <enclosure
+                url="http://192.168.32.1:3000/stream?engine=bilibili_basic&amp;vid=BV1GetozeEjo&amp;bilibili_bvid=1&amp;quality=48k&amp;type=audio" />
+            <!-- iTunes 专用 -->
+            <itunes:duration>01:19:53</itunes:duration>
+            <itunes:author>徹夜bot</itunes:author>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:summary>https://www.youtube.com/watch?v=FkFE2H2loPg</itunes:summary>
+            <itunes:image href="http://192.168.32.1:3000/bilibili_basicfeed/static/user/4554/avatar" />
+            <!-- 唯一标识符 -->
+            <guid isPermaLink="false">BV1GetozeEjo</guid>
+        </item>
+        <item>
+            <!-- 基本信息 -->
+            <title>Steady Rain, Steady Mind Lofi - Chill Beats to Study and Sleep</title>
+            <description>https://www.youtube.com/watch?v=X2EKcpkaQao</description>
+
+            <pubDate>Sat, 09 Aug 2025 16:43:16 GMT</pubDate>
+            <link>https://www.google.com</link>
+            <enclosure
+                url="http://192.168.32.1:3000/stream?engine=bilibili_basic&amp;vid=BV11qt8z2E6u&amp;bilibili_bvid=1&amp;quality=48k&amp;type=audio" />
+            <!-- iTunes 专用 -->
+            <itunes:duration>00:52:00</itunes:duration>
+            <itunes:author>徹夜bot</itunes:author>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:summary>https://www.youtube.com/watch?v=X2EKcpkaQao</itunes:summary>
+            <itunes:image href="http://192.168.32.1:3000/bilibili_basicfeed/static/user/4554/avatar" />
+            <!-- 唯一标识符 -->
+            <guid isPermaLink="false">BV11qt8z2E6u</guid>
+        </item>
+        <item>
+            <!-- 基本信息 -->
+            <title>TRAPPIN IN ＪＡＰＡＮ ２５</title>
+            <description>https://www.youtube.com/watch?v=cGP5-Hfz6G0</description>
+
+            <pubDate>Fri, 08 Aug 2025 17:05:33 GMT</pubDate>
+            <link>https://www.google.com</link>
+            <enclosure
+                url="http://192.168.32.1:3000/stream?engine=bilibili_basic&amp;vid=BV18XtHzeEoz&amp;bilibili_bvid=1&amp;quality=48k&amp;type=audio" />
+            <!-- iTunes 专用 -->
+            <itunes:duration>00:59:59</itunes:duration>
+            <itunes:author>徹夜bot</itunes:author>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:summary>https://www.youtube.com/watch?v=cGP5-Hfz6G0</itunes:summary>
+            <itunes:image href="http://192.168.32.1:3000/bilibili_basicfeed/static/user/4554/avatar" />
+            <!-- 唯一标识符 -->
+            <guid isPermaLink="false">BV18XtHzeEoz</guid>
+        </item>
+        <item>
+            <!-- 基本信息 -->
+            <title>TRAPPIN IN ＰＡＲＡＤＩＳＥ 141</title>
+            <description>https://www.youtube.com/watch?v=2aFRtABDdkQ</description>
+
+            <pubDate>Sun, 03 Aug 2025 16:44:07 GMT</pubDate>
+            <link>https://www.google.com</link>
+            <enclosure
+                url="http://192.168.32.1:3000/stream?engine=bilibili_basic&amp;vid=BV1vdh5zFEpW&amp;bilibili_bvid=1&amp;quality=48k&amp;type=audio" />
+            <!-- iTunes 专用 -->
+            <itunes:duration>00:57:43</itunes:duration>
+            <itunes:author>徹夜bot</itunes:author>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:summary>https://www.youtube.com/watch?v=2aFRtABDdkQ</itunes:summary>
+            <itunes:image href="http://192.168.32.1:3000/bilibili_basicfeed/static/user/4554/avatar" />
+            <!-- 唯一标识符 -->
+            <guid isPermaLink="false">BV1vdh5zFEpW</guid>
+        </item>
+        <item>
+            <!-- 基本信息 -->
+            <title>Spotlight</title>
+            <description>https://www.youtube.com/watch?v=CO-4GNrr_Ko</description>
+
+            <pubDate>Tue, 29 Jul 2025 17:19:51 GMT</pubDate>
+            <link>https://www.google.com</link>
+            <enclosure
+                url="http://192.168.32.1:3000/stream?engine=bilibili_basic&amp;vid=BV1no8ZzsENz&amp;bilibili_bvid=1&amp;quality=48k&amp;type=audio" />
+            <!-- iTunes 专用 -->
+            <itunes:duration>01:02:20</itunes:duration>
+            <itunes:author>徹夜bot</itunes:author>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:summary>https://www.youtube.com/watch?v=CO-4GNrr_Ko</itunes:summary>
+            <itunes:image href="http://192.168.32.1:3000/bilibili_basicfeed/static/user/4554/avatar" />
+            <!-- 唯一标识符 -->
+            <guid isPermaLink="false">BV1no8ZzsENz</guid>
+        </item>
+        <item>
+            <!-- 基本信息 -->
+            <title>ＳＡＤ ＴＲＡＰ １２．ＭＰ４</title>
+            <description>https://www.youtube.com/watch?v=CdufBsHNC7w</description>
+
+            <pubDate>Sun, 27 Jul 2025 17:13:41 GMT</pubDate>
+            <link>https://www.google.com</link>
+            <enclosure
+                url="http://192.168.32.1:3000/stream?engine=bilibili_basic&amp;vid=BV1X88GzLEF2&amp;bilibili_bvid=1&amp;quality=48k&amp;type=audio" />
+            <!-- iTunes 专用 -->
+            <itunes:duration>00:52:55</itunes:duration>
+            <itunes:author>徹夜bot</itunes:author>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:summary>https://www.youtube.com/watch?v=CdufBsHNC7w</itunes:summary>
+            <itunes:image href="http://192.168.32.1:3000/bilibili_basicfeed/static/user/4554/avatar" />
+            <!-- 唯一标识符 -->
+            <guid isPermaLink="false">BV1X88GzLEF2</guid>
+        </item>
+        <item>
+            <!-- 基本信息 -->
+            <title>ＴＲＡＰ　ＺＯＮＥ　 10</title>
+            <description>https://www.youtube.com/watch?v=uYnal_SMPtM</description>
+
+            <pubDate>Fri, 25 Jul 2025 17:46:33 GMT</pubDate>
+            <link>https://www.google.com</link>
+            <enclosure
+                url="http://192.168.32.1:3000/stream?engine=bilibili_basic&amp;vid=BV1zsbdzyEU2&amp;bilibili_bvid=1&amp;quality=48k&amp;type=audio" />
+            <!-- iTunes 专用 -->
+            <itunes:duration>00:53:28</itunes:duration>
+            <itunes:author>徹夜bot</itunes:author>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:summary>https://www.youtube.com/watch?v=uYnal_SMPtM</itunes:summary>
+            <itunes:image href="http://192.168.32.1:3000/bilibili_basicfeed/static/user/4554/avatar" />
+            <!-- 唯一标识符 -->
+            <guid isPermaLink="false">BV1zsbdzyEU2</guid>
+        </item>
+        <item>
+            <!-- 基本信息 -->
+            <title>remember when lofi hip-hop still sounded real.</title>
+            <description>https://www.youtube.com/watch?v=_QqXxuN-YqA</description>
+
+            <pubDate>Tue, 22 Jul 2025 17:42:12 GMT</pubDate>
+            <link>https://www.google.com</link>
+            <enclosure
+                url="http://192.168.32.1:3000/stream?engine=bilibili_basic&amp;vid=BV1tpgxzfE34&amp;bilibili_bvid=1&amp;quality=48k&amp;type=audio" />
+            <!-- iTunes 专用 -->
+            <itunes:duration>01:01:17</itunes:duration>
+            <itunes:author>徹夜bot</itunes:author>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:summary>https://www.youtube.com/watch?v=_QqXxuN-YqA</itunes:summary>
+            <itunes:image href="http://192.168.32.1:3000/bilibili_basicfeed/static/user/4554/avatar" />
+            <!-- 唯一标识符 -->
+            <guid isPermaLink="false">BV1tpgxzfE34</guid>
+        </item>
+        <item>
+            <!-- 基本信息 -->
+            <title>ＷＯＮＤＥＲ Phonk and Wave Mix</title>
+            <description>https://www.youtube.com/watch?v=GxUFFhE4F2E&amp;list=WL&amp;index=10</description>
+
+            <pubDate>Sun, 20 Jul 2025 17:33:12 GMT</pubDate>
+            <link>https://www.google.com</link>
+            <enclosure
+                url="http://192.168.32.1:3000/stream?engine=bilibili_basic&amp;vid=BV1fegYzeEE7&amp;bilibili_bvid=1&amp;quality=48k&amp;type=audio" />
+            <!-- iTunes 专用 -->
+            <itunes:duration>01:20:27</itunes:duration>
+            <itunes:author>徹夜bot</itunes:author>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:summary>https://www.youtube.com/watch?v=GxUFFhE4F2E&amp;list=WL&amp;index=10</itunes:summary>
+            <itunes:image href="http://192.168.32.1:3000/bilibili_basicfeed/static/user/4554/avatar" />
+            <!-- 唯一标识符 -->
+            <guid isPermaLink="false">BV1fegYzeEE7</guid>
+        </item>
+        <item>
+            <!-- 基本信息 -->
+            <title>relax</title>
+            <description>https://www.youtube.com/watch?v=B-gZrtWNX-A</description>
+
+            <pubDate>Sat, 19 Jul 2025 16:58:35 GMT</pubDate>
+            <link>https://www.google.com</link>
+            <enclosure
+                url="http://192.168.32.1:3000/stream?engine=bilibili_basic&amp;vid=BV1TLufzSEPV&amp;bilibili_bvid=1&amp;quality=48k&amp;type=audio" />
+            <!-- iTunes 专用 -->
+            <itunes:duration>00:35:40</itunes:duration>
+            <itunes:author>徹夜bot</itunes:author>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:summary>https://www.youtube.com/watch?v=B-gZrtWNX-A</itunes:summary>
+            <itunes:image href="http://192.168.32.1:3000/bilibili_basicfeed/static/user/4554/avatar" />
+            <!-- 唯一标识符 -->
+            <guid isPermaLink="false">BV1TLufzSEPV</guid>
+        </item>
+        <item>
+            <!-- 基本信息 -->
+            <title>Future Flow - Studio Set 3 (1995 - 1998)</title>
+            <description>https://www.youtube.com/watch?v=KWaxyaGaMUE</description>
+
+            <pubDate>Tue, 15 Jul 2025 16:57:17 GMT</pubDate>
+            <link>https://www.google.com</link>
+            <enclosure
+                url="http://192.168.32.1:3000/stream?engine=bilibili_basic&amp;vid=BV1CZupz5E2P&amp;bilibili_bvid=1&amp;quality=48k&amp;type=audio" />
+            <!-- iTunes 专用 -->
+            <itunes:duration>00:56:35</itunes:duration>
+            <itunes:author>徹夜bot</itunes:author>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:summary>https://www.youtube.com/watch?v=KWaxyaGaMUE</itunes:summary>
+            <itunes:image href="http://192.168.32.1:3000/bilibili_basicfeed/static/user/4554/avatar" />
+            <!-- 唯一标识符 -->
+            <guid isPermaLink="false">BV1CZupz5E2P</guid>
+        </item>
+        <item>
+            <!-- 基本信息 -->
+            <title>Espresso.</title>
+            <description>https://www.youtube.com/watch?v=c-aYLAPMabs</description>
+
+            <pubDate>Sun, 13 Jul 2025 16:59:20 GMT</pubDate>
+            <link>https://www.google.com</link>
+            <enclosure
+                url="http://192.168.32.1:3000/stream?engine=bilibili_basic&amp;vid=BV1FDuAzEEXa&amp;bilibili_bvid=1&amp;quality=48k&amp;type=audio" />
+            <!-- iTunes 专用 -->
+            <itunes:duration>01:04:36</itunes:duration>
+            <itunes:author>徹夜bot</itunes:author>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:summary>https://www.youtube.com/watch?v=c-aYLAPMabs</itunes:summary>
+            <itunes:image href="http://192.168.32.1:3000/bilibili_basicfeed/static/user/4554/avatar" />
+            <!-- 唯一标识符 -->
+            <guid isPermaLink="false">BV1FDuAzEEXa</guid>
+        </item>
+        <item>
+            <!-- 基本信息 -->
+            <title>can&apos;t sleep</title>
+            <description>https://www.youtube.com/watch?v=wdVh9d-pWo0</description>
+
+            <pubDate>Thu, 10 Jul 2025 17:25:42 GMT</pubDate>
+            <link>https://www.google.com</link>
+            <enclosure
+                url="http://192.168.32.1:3000/stream?engine=bilibili_basic&amp;vid=BV1WkGGzxEfo&amp;bilibili_bvid=1&amp;quality=48k&amp;type=audio" />
+            <!-- iTunes 专用 -->
+            <itunes:duration>00:30:27</itunes:duration>
+            <itunes:author>徹夜bot</itunes:author>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:summary>https://www.youtube.com/watch?v=wdVh9d-pWo0</itunes:summary>
+            <itunes:image href="http://192.168.32.1:3000/bilibili_basicfeed/static/user/4554/avatar" />
+            <!-- 唯一标识符 -->
+            <guid isPermaLink="false">BV1WkGGzxEfo</guid>
+        </item>
+        <item>
+            <!-- 基本信息 -->
+            <title>WHAT&apos;S HAPPENING Z (full tape] 🐉 KEIFERGR33N 🐉</title>
+            <description>https://www.youtube.com/watch?v=uv_T1xPK46A</description>
+
+            <pubDate>Tue, 08 Jul 2025 17:40:39 GMT</pubDate>
+            <link>https://www.google.com</link>
+            <enclosure
+                url="http://192.168.32.1:3000/stream?engine=bilibili_basic&amp;vid=BV1jEGWzrECx&amp;bilibili_bvid=1&amp;quality=48k&amp;type=audio" />
+            <!-- iTunes 专用 -->
+            <itunes:duration>00:49:34</itunes:duration>
+            <itunes:author>徹夜bot</itunes:author>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:summary>https://www.youtube.com/watch?v=uv_T1xPK46A</itunes:summary>
+            <itunes:image href="http://192.168.32.1:3000/bilibili_basicfeed/static/user/4554/avatar" />
+            <!-- 唯一标识符 -->
+            <guid isPermaLink="false">BV1jEGWzrECx</guid>
+        </item>
+        <item>
+            <!-- 基本信息 -->
+            <title>ＮＯ ＬＩＭＩＴＳ</title>
+            <description>https://www.youtube.com/watch?v=lEia7Qmb9aY</description>
+
+            <pubDate>Thu, 03 Jul 2025 17:08:53 GMT</pubDate>
+            <link>https://www.google.com</link>
+            <enclosure
+                url="http://192.168.32.1:3000/stream?engine=bilibili_basic&amp;vid=BV1qx3gzvEKA&amp;bilibili_bvid=1&amp;quality=48k&amp;type=audio" />
+            <!-- iTunes 专用 -->
+            <itunes:duration>00:15:05</itunes:duration>
+            <itunes:author>徹夜bot</itunes:author>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:summary>https://www.youtube.com/watch?v=lEia7Qmb9aY</itunes:summary>
+            <itunes:image href="http://192.168.32.1:3000/bilibili_basicfeed/static/user/4554/avatar" />
+            <!-- 唯一标识符 -->
+            <guid isPermaLink="false">BV1qx3gzvEKA</guid>
+        </item>
+        <item>
+            <!-- 基本信息 -->
+            <title>TRAPPIN IN ＰＡＲＡＤＩＳＥ 140</title>
+            <description>https://www.youtube.com/watch?v=B16YQHxKK_I</description>
+
+            <pubDate>Tue, 01 Jul 2025 16:37:57 GMT</pubDate>
+            <link>https://www.google.com</link>
+            <enclosure
+                url="http://192.168.32.1:3000/stream?engine=bilibili_basic&amp;vid=BV1Jn3HzBEAQ&amp;bilibili_bvid=1&amp;quality=48k&amp;type=audio" />
+            <!-- iTunes 专用 -->
+            <itunes:duration>01:03:46</itunes:duration>
+            <itunes:author>徹夜bot</itunes:author>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:summary>https://www.youtube.com/watch?v=B16YQHxKK_I</itunes:summary>
+            <itunes:image href="http://192.168.32.1:3000/bilibili_basicfeed/static/user/4554/avatar" />
+            <!-- 唯一标识符 -->
+            <guid isPermaLink="false">BV1Jn3HzBEAQ</guid>
+        </item>
+        <item>
+            <!-- 基本信息 -->
+            <title>remember when lofi hip-hop still sounded like this.</title>
+            <description>https://www.youtube.com/watch?v=617L_MOB37k</description>
+
+            <pubDate>Sun, 29 Jun 2025 18:09:52 GMT</pubDate>
+            <link>https://www.google.com</link>
+            <enclosure
+                url="http://192.168.32.1:3000/stream?engine=bilibili_basic&amp;vid=BV1qR3PzHEbn&amp;bilibili_bvid=1&amp;quality=48k&amp;type=audio" />
+            <!-- iTunes 专用 -->
+            <itunes:duration>01:00:10</itunes:duration>
+            <itunes:author>徹夜bot</itunes:author>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:summary>https://www.youtube.com/watch?v=617L_MOB37k</itunes:summary>
+            <itunes:image href="http://192.168.32.1:3000/bilibili_basicfeed/static/user/4554/avatar" />
+            <!-- 唯一标识符 -->
+            <guid isPermaLink="false">BV1qR3PzHEbn</guid>
+        </item>
+        <item>
+            <!-- 基本信息 -->
+            <title>ocean eyes - breakcore mix</title>
+            <description>https://www.youtube.com/watch?v=IF8HLEwrYAM</description>
+
+            <pubDate>Wed, 25 Jun 2025 16:19:46 GMT</pubDate>
+            <link>https://www.google.com</link>
+            <enclosure
+                url="http://192.168.32.1:3000/stream?engine=bilibili_basic&amp;vid=BV1YkKSzbE5y&amp;bilibili_bvid=1&amp;quality=48k&amp;type=audio" />
+            <!-- iTunes 专用 -->
+            <itunes:duration>00:21:00</itunes:duration>
+            <itunes:author>徹夜bot</itunes:author>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:summary>https://www.youtube.com/watch?v=IF8HLEwrYAM</itunes:summary>
+            <itunes:image href="http://192.168.32.1:3000/bilibili_basicfeed/static/user/4554/avatar" />
+            <!-- 唯一标识符 -->
+            <guid isPermaLink="false">BV1YkKSzbE5y</guid>
+        </item>
+        <item>
+            <!-- 基本信息 -->
+            <title>ＰＨＯＮＫＴＡＳＴＩＣ ⁵</title>
+            <description>https://www.youtube.com/watch?v=eTnJPJCAxRs</description>
+
+            <pubDate>Mon, 23 Jun 2025 19:00:45 GMT</pubDate>
+            <link>https://www.google.com</link>
+            <enclosure
+                url="http://192.168.32.1:3000/stream?engine=bilibili_basic&amp;vid=BV1tWKYzqEef&amp;bilibili_bvid=1&amp;quality=48k&amp;type=audio" />
+            <!-- iTunes 专用 -->
+            <itunes:duration>00:56:11</itunes:duration>
+            <itunes:author>徹夜bot</itunes:author>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:summary>https://www.youtube.com/watch?v=eTnJPJCAxRs</itunes:summary>
+            <itunes:image href="http://192.168.32.1:3000/bilibili_basicfeed/static/user/4554/avatar" />
+            <!-- 唯一标识符 -->
+            <guid isPermaLink="false">BV1tWKYzqEef</guid>
+        </item>
+        <item>
+            <!-- 基本信息 -->
+            <title>late night thoughts.</title>
+            <description>https://www.youtube.com/watch?v=bzscrIAr1YI&amp;t=1s</description>
+
+            <pubDate>Sun, 22 Jun 2025 17:38:02 GMT</pubDate>
+            <link>https://www.google.com</link>
+            <enclosure
+                url="http://192.168.32.1:3000/stream?engine=bilibili_basic&amp;vid=BV1WVKpzeEtW&amp;bilibili_bvid=1&amp;quality=48k&amp;type=audio" />
+            <!-- iTunes 专用 -->
+            <itunes:duration>03:02:57</itunes:duration>
+            <itunes:author>徹夜bot</itunes:author>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:summary>https://www.youtube.com/watch?v=bzscrIAr1YI&amp;t=1s</itunes:summary>
+            <itunes:image href="http://192.168.32.1:3000/bilibili_basicfeed/static/user/4554/avatar" />
+            <!-- 唯一标识符 -->
+            <guid isPermaLink="false">BV1WVKpzeEtW</guid>
+        </item>
+    </channel>
